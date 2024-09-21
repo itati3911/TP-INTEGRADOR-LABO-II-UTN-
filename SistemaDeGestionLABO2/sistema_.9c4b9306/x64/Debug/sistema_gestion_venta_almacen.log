@@ -1,0 +1,30 @@
+﻿  ArchivoFactura.cpp
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\ArchivoFactura.cpp(124,37): warning C4390: ';': empty controlled statement found; is this the intent?
+  ArchivosClientes.cpp
+  ArchivosManager.cpp
+  ArchivosProveedores.cpp
+  Backup.cpp
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Backup.cpp(160,33): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'int'
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Backup.cpp(160,33): warning C4313: 'fprintf': '%s' in format string conflicts with argument 4 of type 'int'
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Backup.cpp(181,33): warning C4477: 'fprintf' : format string '%.2f' requires an argument of type 'double', but variadic argument 5 has type 'int'
+  Cliente.cpp
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Cliente.cpp(5,6): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Cliente.cpp(10,6): warning C4804: '<=': unsafe use of type 'bool' in operation
+  DetalleFactura.cpp
+  ExportarACSV.cpp
+  Factura.cpp
+  Fecha.cpp
+  Helpers.cpp
+  Manager.cpp
+  Menu.cpp
+  Persona.cpp
+  Producto.cpp
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Producto.cpp(20,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\Producto.cpp(21,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Proveedor.cpp
+  Source.cpp
+  Usuarios.cpp
+  Generating Code...
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\ArchivosManager.cpp(143,1): warning C4715: 'ArchivosManager::ListarUsuarios': not all control paths return a value
+C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\ArchivoFactura.cpp(110,1): warning C4715: 'ArchivoFactura::BuscarFactura': not all control paths return a value
+  sistema_gestion_venta_almacen.vcxproj -> C:\Users\danie\OneDrive\Escritorio\ITATI\LABO 2\x64\Debug\sistema_gestion_venta_almacen.exe
